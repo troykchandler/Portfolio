@@ -1,0 +1,22 @@
+ #bottom{
+    width:100%;
+    float:none;
+    display:block;
+    margin-top:75px;
+    }
+  #main-container{
+    font-size:14px;
+    margin-top:25px;
+  }
+  #contact-form {
+    font-size: 14px;
+    color:blue;
+    margin-top:5px;
+    margin-inline-start:left;
+  }
+  #Row1{
+    margin-bottom:25px;
+    margin-left:50px;
+    margin-right:50px;
+    Margin-top:25px;
+  }
